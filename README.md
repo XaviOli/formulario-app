@@ -15,3 +15,20 @@ En cada uno de los inputs, se guardan ambos valores y se imprimen en pantalla:
 Vemos en forma de listado, los datos que el usuario escribe directamente en cada input:
 
 ![This is react](./src/img/soy-un-formulario-2.png)
+
+## Conceptos aplicados
+
+- Hook de estado (useState)
+- Listas y key
+- Métodos map y trim.
+
+[Método map](https://www.w3schools.com/jsref/jsref_map.asp)
+
+[Método TRIM](https://www.w3schools.com/jsrEF/jsref_trim_string.asp)
+
+- Operador de propagación
+- Eventos: onClick, onChange, submit.
+
+### `Maquetación`
+
+[Bootstrap](https://getbootstrap.com/)
