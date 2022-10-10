@@ -32,3 +32,5 @@ Vemos en forma de listado, los datos que el usuario escribe directamente en cada
 ### `Maquetación`
 
 [Bootstrap](https://getbootstrap.com/)
+
+Este ejercicio ha sido realizado con el fin de poner en práctica las ventajas de REACT.
